@@ -12,7 +12,7 @@ chmod +x Anonx.sh
 ```
 
 # Youtube Tutorial
-[![AnonX](AnonX.png)](https://youtu.be/r2GrmcZxGV4)
+[![AnonX](Anonx.png)](https://youtu.be/r2GrmcZxGV4)
 
 # Credit
 
