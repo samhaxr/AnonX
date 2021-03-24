@@ -9,7 +9,7 @@ AnonX encrypts the directory before uploading it to the server. The download fun
 # Usage
 ```
 git clone https://github.com/samhaxr/Anonx
-chmod +x Anonx.sh
+cd AnonX
 ./Anonx.sh
 ```
 
