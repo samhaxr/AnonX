@@ -1,3 +1,9 @@
+# NOTE
+AnonX script was based on we-transfer public API and has stopped working after three weeks from its release.  
+“All good things must come to an end, so it’s with a heavy heart and through held-back tears that we must announce that we’ll be retiring our Public API. Sad times.” says Stephen. For more detail read
+<a href="https://wetransfer.zendesk.com/hc/en-us/articles/360038551772-We-ve-retired-our-Public-API" >We've retired our Public API
+</a> document.
+ 
 # AnonX
 An Encrypted File transfer via AES-256-CBC
 
